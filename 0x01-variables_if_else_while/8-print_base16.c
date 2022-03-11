@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
-* main - prints all the numbers of base 16 in lowercase, followed by a new line using only putchar
+* main - prints all the numbers of base 16 in lowercase,
+* followed by a new line using only putchar
 *
 * Return: 0
 */
