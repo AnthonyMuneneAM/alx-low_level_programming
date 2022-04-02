@@ -2,8 +2,8 @@
 
 /**
  * main -  writes its name
- * @argc: arguement count
- * @argv: array of pointers to arguement strings
+ * @argc: argument count
+ * @argv: array of pointers to argument strings
  * Return: 0
  **/
 
